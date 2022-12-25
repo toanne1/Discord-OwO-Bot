@@ -1,7 +1,7 @@
 {
 	"sharder": {
 		"path": "/src/owo.js",
-		"name": "OwO Bot"
+		"name": "DtoanUwU"
 	},
 
 	"eris": {
@@ -30,7 +30,7 @@
 		}
 	},
 
-	"prefix": "owo",
+	"prefix": "",
 	"embed_color": 8240363,
 	"success_color": 65280,
 	"fail_color": 16711680,
@@ -60,9 +60,9 @@
 		}
 	},
 	"role": {
-		"admin": ["420112323278143489"],
-		"manager": ["959380828838850590"],
-		"helper": ["729574996556382298"]
+		"admin": ["683675498827612279"],
+		"manager": ["683675498827612279"],
+		"helper": ["683675498827612279"]
 	},
 	"modChannels": [
 		"471579186059018241",
